@@ -4,10 +4,6 @@ QuickBite is a fast-growing food delivery app operating in Bengaluru, Hyderabad,
 ## Project overview
 This project uses QuickBite order data to clean the records, combine the related tables, and study order and delivery performance.
 
-## Platform and Database
-Platform Used: MySQL Workbench 8.0
-Database Engine: MySQL (MySQL Server)
-
 ## Dataset
 The input file is `data/QuickBite_Assessment.xlsx`. It contains six sheets:
 
