@@ -1,10 +1,12 @@
-# QuickBite---Assessment.
+# QuickBite-Assessment.
 QuickBite is a fast-growing food delivery app operating in Bengaluru, Hyderabad, Chennai and  Mumbai. Each month the operations team reviews which areas are growing, what customers are  ordering and how well deliveries are running. The data comes straight out of different systems,  so it has never been cleaned or joined together. 
-
-# QuickBite Data Analysis
 
 ## Project overview
 This project uses QuickBite order data to clean the records, combine the related tables, and study order and delivery performance.
+
+## Platform and Database
+Platform Used: MySQL Workbench 8.0
+Database Engine: MySQL (MySQL Server)
 
 ## Dataset
 The input file is `data/QuickBite_Assessment.xlsx`. It contains six sheets:
